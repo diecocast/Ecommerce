@@ -1,0 +1,15 @@
+{"level":50,"time":1667417022803,"pid":59100,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427124784,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427137686,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427224271,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667515421002,"pid":45236,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: productos.push is not a function"}
+{"level":50,"time":1667515453487,"pid":45236,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: productos.push is not a function"}
+{"level":50,"time":1667515978536,"pid":15156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.find is not a function"}
+{"level":50,"time":1667515985001,"pid":15156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.find is not a function"}
+{"level":50,"time":1667516421137,"pid":33976,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.filter is not a function"}
+{"level":50,"time":1667526614644,"pid":58476,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526671388,"pid":49108,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526698257,"pid":33228,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526715931,"pid":10972,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667535088209,"pid":25044,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: cid is not defined"}
+{"level":50,"time":1667535213782,"pid":25044,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: cid is not defined"}

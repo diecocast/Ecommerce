@@ -112,7 +112,7 @@ export default class Carts extends FileContainer{
             } 
         } catch (error) {
             logger.error(`Hay un error ${error}`)
-            return `Hay un error, o el carrito o el producto puesto no existen. Recuerde el modo de añadir "http://localhost:8080/api/carts/:IDPRODCUT/products/:IDCART"`
+            return `Hay un error, o el carrito o el producto puesto no existen. Recuerde el modo de añadir "https://ecommerce-production-0be9.up.railway.app/api/carts/:IDPRODCUT/products/:IDCART"`
         }
 
     }

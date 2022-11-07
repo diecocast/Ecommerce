@@ -56,7 +56,7 @@ app.get('/',async(req,res)=>{
         let user = req.session.user
         let listCart = await services.cartsService.getCartProducts(req.session.user.cartID)
         let total = await services.cartsService.getTotal(user.cartID)
-        let endShop = `    <form class="endshopForm"action="http://localhost:8080" method="post">
+        let endShop = `    <form class="endshopForm"action="https://ecommerce-production-0be9.up.railway.app" method="post">
         <button id="endshop" class="endshop" formaction="/api/carts/endshop">Finalizar compra</button>
         </form>
     `

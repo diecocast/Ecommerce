@@ -5,16 +5,16 @@
     <h1>Bienvenido, {{user.name}} <a href=""><img width="10%" src={{user.photo}} alt="Invalid Link, Perfil photo"></a></div><br> <button id="myButton" type="button" class="btn btn-dark">Logout</button><br> <button id="view" type="button" class="btn btn-dark">Ver perfil</button>
     <script type="text/javascript">
     document.getElementById("myButton").onclick = function () {
-        location.href = "http://localhost:8080/logout";
+        location.href = "https://ecommerce-production-0be9.up.railway.app/logout";
     };
     document.getElementById("view").onclick = function () {
-        location.href = "http://localhost:8080/profile";
+        location.href = "https://ecommerce-production-0be9.up.railway.app/profile";
     };
     
 </script></h1>
 <div class="shop">
     <div class="container">
-          <form class="addCart"action="http://localhost:8080" method="post">
+          <form class="addCart"action="https://ecommerce-production-0be9.up.railway.app" method="post">
           <h1>Lista productos</h1>
       <table class="table table-striped">
         <thead>
@@ -34,7 +34,7 @@
           </form>
     </div>
 
-    <form class="addCart"action="http://localhost:8080" method="post">
+    <form class="addCart"action="https://ecommerce-production-0be9.up.railway.app" method="post">
     <div class="cart">
     <h1>Tu carrito <a href="/"><img width="10%" src="img/refresh.png" alt="refresh">Refresh</a></h1>
     {{{endShop}}}
@@ -86,7 +86,7 @@
 
     <section class="Fuctions">
     <h2>Funciones</h2>
-    <form action="http://localhost:8080/api/products/pid" method="get">
+    <form action="https://ecommerce-production-0be9.up.railway.app/api/products/pid" method="get">
         <label><br>Buscar producto con id :</label>
         <input type = "number" name="pid"required>
         <br><button>Buscar id</button>

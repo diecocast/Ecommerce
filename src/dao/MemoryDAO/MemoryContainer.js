@@ -16,7 +16,6 @@ export default class MemoryContainer{
         try {
             const data = await this.getAll();
             if(data.id !=idNumber){
-                console.log(data.find((element) => element.id == idNumber))
                 let info = data.find((element) => element.id == idNumber)
                 return info
             }else{

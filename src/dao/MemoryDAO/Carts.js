@@ -90,7 +90,6 @@ export default class Products extends MemoryContainer{
         try {
             let product = await this.getById(cid)
             let listproducts = Object.values(product.products)
-            console.log(listproducts)
             return listproducts
         
         } catch (error) {

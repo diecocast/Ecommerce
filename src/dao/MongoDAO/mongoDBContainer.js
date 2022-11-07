@@ -30,7 +30,6 @@ export default class MongoDBContainer{
             if(data.id !=idNumber){
                 let data = await this.model.find({id:{$eq:idNumber}}) 
                 let element = JSON.stringify(data)
-                console.log(element)
                 return element
             }else{
                 return "null"

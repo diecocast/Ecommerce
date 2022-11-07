@@ -40,7 +40,6 @@ export default class Carts extends FileContainer{
             let data = await productsService.getAll();
             let product = await this.getById(cid)
             let list= [];
-            console.log("product.products : " , Object.values(product.products))
             Object.values(product.products).forEach((pid) => {
             let productos = data.find((element) => element.id == pid.product)
             list.push(productos)

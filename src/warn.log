@@ -13,3 +13,33 @@
 {"level":50,"time":1667526715931,"pid":10972,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
 {"level":50,"time":1667535088209,"pid":25044,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: cid is not defined"}
 {"level":50,"time":1667535213782,"pid":25044,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: cid is not defined"}
+{"level":40,"time":1667607668113,"pid":24988,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de form inesacta a  /loginaa"}
+{"level":50,"time":1667607863269,"pid":1156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: result is not defined"}
+{"level":40,"time":1667677357957,"pid":55992,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677661265,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677662669,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677675210,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677675837,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677678691,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677681769,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677683314,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677735455,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677757803,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677759254,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677760820,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677763644,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677826180,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677900409,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677907715,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677914852,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677917145,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677923784,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677928663,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677970881,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678019964,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678024121,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678124192,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678126493,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678337305,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678363246,"pid":49300,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678886989,"pid":15320,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}

@@ -52,7 +52,7 @@ const deleteSubmit = async(evt,form,route) =>{
         }
     }).then(res =>res.json()).then(json=>console.log(json));
     await sleep(900)
-    window.location.href = "https://ecommerce-production-0be9.up.railway.app/"
+    window.location.href = "http://localhost:8080/"
 }
 
 deleteForm.addEventListener('submit',(e)=>deleteSubmit(e,e.target,'/api/products'))

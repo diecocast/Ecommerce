@@ -14,6 +14,6 @@ form.addEventListener('submit',async(evt)=>{
     }).then(result=>result.json())
     .then(json=>console.log(json))
     await sleep(900)
-    window.location.href = "https://ecommerce-production-0be9.up.railway.app/"
+    window.location.href = "http://localhost:8080/"
 });
 

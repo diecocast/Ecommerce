@@ -43,3 +43,9 @@
 {"level":40,"time":1667678337305,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
 {"level":40,"time":1667678363246,"pid":49300,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
 {"level":40,"time":1667678886989,"pid":15320,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":50,"time":1668102092351,"pid":28600,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: services is not defined"}
+{"level":40,"time":1668102131876,"pid":28600,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /546546"}
+{"level":40,"time":1668132363793,"pid":6472,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /21"}
+{"level":40,"time":1668132392421,"pid":6472,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668132425237,"pid":6472,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668132470567,"pid":6472,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}

@@ -1,12 +1,13 @@
 import mongoose from "mongoose";
 import MongoDBContainer from "./mongoDBContainer.js";
+import cartProductsDTO from "../DTOs/cartProductsDTO.js";
 import MongoProducts from './Products.js'
 import __dirname from '../../utils.js'
 import pino from "pino";
-import nodemailer from 'nodemailer'
 import transporter from "../../config/transporter.js";
 const streams = [{level:'info',stream:process.stdout},{level:'warn',stream:pino.destination(__dirname + '/warn.log')},{level:'error',stream:pino.destination(__dirname+'/error.log')}]
 const logger = pino({},pino.multistream(streams))
+
 let productsService = new MongoProducts();
 
 const collections = 'carts'
@@ -33,7 +34,8 @@ export default class Carts extends MongoDBContainer{
                 let productos = data.find((element) => element.id == pid.product)
                 if(!productos) return ''
                 productos.quantity = pid.quantity
-                list.push(productos)
+                let result = new cartProductsDTO(productos);
+                list.push(result)
             })
             return list
         } catch (error) {

@@ -1,6 +1,6 @@
 import pino from "pino"
 import __dirname from '../utils.js';
-import services from "../dao/index.js";
+import services from "../dao/services.js";
 import io from "../app.js";
 
 const streams = [

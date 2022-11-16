@@ -1,4 +1,4 @@
-import services from "../dao/index.js";
+import services from "../dao/services.js";
 import __dirname from "../utils.js";
 import io from '../app.js';
 import pino from "pino"

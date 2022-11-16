@@ -1,8 +1,8 @@
 import passport from "passport";
 import local from 'passport-local'
-import services from "../dao/index.js";
+import services from "../dao/services.js";
 import { measureMemory } from "vm";
-import userService from "../models/User.js";
+import userService from "../dao/models/User.js";
 import { createHash,isValidPassword } from '../utils.js';
 const LocalStrategy = local.Strategy
 

@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: rgb(212, 146, 146);
+}
+h1{
+    background-color: rgb(90, 143, 156);
+    text-align: center;
+    padding: 2%
+}
+
+
+.shop .container > form{
+    background-color: rgb(212, 146, 146); 
+    align-items: center;
+}
+
+h2{
+    background-color: rgb(83, 95, 95);
+    margin: 0 auto;
+    width: 350px;
+    padding: 1%;
+}
+
+
+
+input {
+    margin: 0 auto;
+    width: 350px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+button{
+    width: 50%;
+    padding: 2%;
+    background-color: rgb(29, 228, 118);
+}
+.Former{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+.shop{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10%;
+    padding-inline: 16%;
+    padding-bottom: 5%;
+}
+.closing{
+    background-color:transparent;
+    width: 5px;
+    margin-right: 100%;
+    border: none;
+}
+.endshop{
+    margin-bottom: 2%;
+}
+p{
+    background-color:brown;
+    padding: 5%;
+}

@@ -1,0 +1,32 @@
+[
+	{
+		"name": " Alarm clock",
+		"description": "It will help you wake up",
+		"price": "50",
+		"stock": "60",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/clock-stopwatch-timer-time-256.png",
+		"id": 1,
+		"code": 101,
+		"timestamp": "2022-08-09 17:33:07"
+	},
+	{
+		"name": "Car",
+		"description": "Amazing car",
+		"price": "1000000",
+		"stock": "11",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bus-vehicle-transport-school-256.png",
+		"id": 2,
+		"code": 102,
+		"timestamp": "2022-08-09 17:34:06"
+	},
+	{
+		"name": "Calculator",
+		"description": "very good calculator",
+		"price": "10",
+		"stock": "999",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+		"id": 3,
+		"code": 103,
+		"timestamp": "2022-08-09 17:35:03"
+	}
+]

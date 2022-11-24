@@ -1,0 +1,128 @@
+{"level":50,"time":1667417022803,"pid":59100,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427124784,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427137686,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667427224271,"pid":52684,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: arr is not defined"}
+{"level":50,"time":1667515421002,"pid":45236,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: productos.push is not a function"}
+{"level":50,"time":1667515453487,"pid":45236,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: productos.push is not a function"}
+{"level":50,"time":1667515978536,"pid":15156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.find is not a function"}
+{"level":50,"time":1667515985001,"pid":15156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.find is not a function"}
+{"level":50,"time":1667516421137,"pid":33976,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: pid.filter is not a function"}
+{"level":50,"time":1667526614644,"pid":58476,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526671388,"pid":49108,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526698257,"pid":33228,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667526715931,"pid":10972,"hostname":"DESKTOP-KV4J656","msg":"Hay un error TypeError: Cannot read properties of undefined (reading 'products')"}
+{"level":50,"time":1667535088209,"pid":25044,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: cid is not defined"}
+{"level":50,"time":1667535213782,"pid":25044,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: cid is not defined"}
+{"level":40,"time":1667607668113,"pid":24988,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de form inesacta a  /loginaa"}
+{"level":50,"time":1667607863269,"pid":1156,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: result is not defined"}
+{"level":40,"time":1667677357957,"pid":55992,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677661265,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677662669,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677675210,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677675837,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677678691,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677681769,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677683314,"pid":20324,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677735455,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677757803,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677759254,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677760820,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677763644,"pid":23268,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677826180,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677900409,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677907715,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677914852,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677917145,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677923784,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677928663,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667677970881,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678019964,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678024121,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678124192,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678126493,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678337305,"pid":7908,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678363246,"pid":49300,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":40,"time":1667678886989,"pid":15320,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /favicon.ico"}
+{"level":50,"time":1668102092351,"pid":28600,"hostname":"DESKTOP-KV4J656","msg":"Hay un error ReferenceError: services is not defined"}
+{"level":40,"time":1668102131876,"pid":28600,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /546546"}
+{"level":40,"time":1668132363793,"pid":6472,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /21"}
+{"level":40,"time":1668132392421,"pid":6472,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668132425237,"pid":6472,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668132470567,"pid":6472,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668630322621,"pid":49564,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668630328128,"pid":49564,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668632019787,"pid":25540,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668632025214,"pid":25540,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668632030360,"pid":25540,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668634278583,"pid":9524,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668634284346,"pid":9524,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668634287759,"pid":9524,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668634290620,"pid":9524,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668634291070,"pid":9524,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668634923717,"pid":16180,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668635024021,"pid":16180,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668635031018,"pid":16180,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668635562758,"pid":13556,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668635566336,"pid":13556,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668638061097,"pid":24096,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668638063274,"pid":24096,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639425851,"pid":53728,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639446567,"pid":53728,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639462970,"pid":16208,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639513286,"pid":2916,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639515740,"pid":2916,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639520711,"pid":2916,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639525517,"pid":2916,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639531181,"pid":2916,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639560180,"pid":2916,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1668639602065,"pid":2916,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669325547524,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669325552553,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669325557004,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669325605443,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669325606073,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /asdasd"}
+{"level":40,"time":1669325632387,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669325642226,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669325648394,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669325678143,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669325678445,"pid":15160,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /asdasd"}
+{"level":40,"time":1669325691933,"pid":9884,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669325692381,"pid":9884,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /asdasd"}
+{"level":40,"time":1669325699194,"pid":9884,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669325707146,"pid":9884,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326556788,"pid":10596,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669326557323,"pid":10596,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /asdasd"}
+{"level":40,"time":1669326606815,"pid":24108,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669326607257,"pid":24108,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /asdasd"}
+{"level":40,"time":1669326620814,"pid":24108,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669326620831,"pid":24108,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /asdasd"}
+{"level":40,"time":1669326629136,"pid":18748,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326665187,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326665864,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326666083,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326666282,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326666477,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326666679,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326666874,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326667064,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326667257,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326667454,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326667650,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326667854,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326668049,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326668245,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326668437,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326668632,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326668825,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326669025,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326669219,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326669418,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326670662,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326670853,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326671044,"pid":29132,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326678073,"pid":30752,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326689580,"pid":13276,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}
+{"level":40,"time":1669326690135,"pid":13276,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /asdasd"}
+{"level":40,"time":1669326697830,"pid":13276,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /api/products/pid"}
+{"level":40,"time":1669326736852,"pid":13276,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /asdasd"}
+{"level":40,"time":1669326736864,"pid":13276,"hostname":"DESKTOP-KV4J656","msg":"Intentaron ir de forma inesacta a  /prueba"}

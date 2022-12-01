@@ -1,8 +1,10 @@
 import express from "express";
+import swaggerUiExpress from "swagger-ui-express";
 import MongoStore from 'connect-mongo';
 import passport from 'passport';
 import session from 'express-session';
 import handlebars from "express-handlebars";
+import swaggerSpecs from './config/swagger.js'
 import productsRouter from "./routes/products.router.js"
 import cartsRouter from "./routes/carts.router.js";
 import sessionsRouter from "./routes/sessions.router.js"
@@ -30,15 +32,18 @@ app.use(session({
     saveUninitialized:false
 }))
 initializePassport()
+
 app.use(passport.initialize())
 app.use(passport.session())
 
 const server = app.listen(PORT,()=>{
-    console.log(`Lisening on ${PORT}`)
-})
+    console.log(`Lisening on ${PORT}`);
+});
+
 const io = new Server(server);
 
-app.use('/',viewsRouter)
+app.use('/',viewsRouter);
+app.use('/swagger',swaggerUiExpress.serve,swaggerUiExpress.setup(swaggerSpecs))
 app.use('/api/sessions',sessionsRouter);
 app.use('/api/products',productsRouter);
 app.use('/api/carts',cartsRouter);

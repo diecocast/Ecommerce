@@ -1,0 +1,88 @@
+components:
+  requestBodies:
+
+    newUser:
+      type: object
+      properties:
+        name:
+          type: String
+          description: User full name
+        address:
+          type: String
+          description: User address
+        age:
+          type: Number
+          description: User age
+        phone_number:
+          type: Number
+          description: User phone number
+        photo:
+          type: String
+          description: User thumbmail photo
+        email:
+          type: String
+          description: User email
+        password:
+          type: String
+          description: Password user login    
+      example:
+        name: Pedro
+        address: 26 - 45
+        age: 25
+        phone_number: +573146681432
+        photo: https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500
+        email: pedro@gmail.com
+        password: 123a
+
+    login:
+      type: object
+      properties:
+        email: 
+          type: String
+          description: Email Registered
+        password: 
+          type: String
+          description: User Password
+      example:
+        email: example@gmail.com
+        password: 123a
+
+paths:
+  /api/sessions/register:
+    post:
+      summary: Register user
+      tags:
+        - Authentication
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/requestBodies/newUser"
+      responses:
+        "200":
+          description: "Succes user added"
+        "400":
+          description: "The user exists"
+  /api/sessions/login: 
+    post: 
+      summary: Login User
+      tags:
+        - Authentication
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/requestBodies/login"
+      responses:
+        "200":
+          description: "Succes login"
+        "400":
+          description: "Invalid Password"  
+  /logout: 
+    get:
+      summary: Logout User
+      tags:
+          - Authentication
+    

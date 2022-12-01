@@ -27,7 +27,7 @@ const register = async(req,res)=>{
 };
 
 const registerfail = (req,res)=>{
-    res.send({status:'error',payload:'Ya estas regsitrado'})
+    res.status(400).send({status:"error",payload:'Ya estas regsitrado'})
 };
 
 const login = async(req,res)=>{
@@ -42,13 +42,13 @@ const login = async(req,res)=>{
             photo:req.user.photo,
             id:req.user._id
         }
-    res.send({status:'succes',payload:req.session.user})
+        res.status(200).send({status:'succes',payload:req.session.user})
     } catch (error) {
     logger.error(`Hay un error ${error}`)
 }}
 
 const loginfail = (req,res)=>{
-   res.status(500).send({status:"error",error:"Login fail rute"})
+   res.status(400).send({status:"error",error:"Invalid Password or no Register"})
 
 };
 

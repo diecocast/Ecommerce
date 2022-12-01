@@ -13,24 +13,32 @@ const logger = pino({},pino.multistream(streams))
 const admin = true;
 
 const home = async(req,res)=>{
-    if(!req.session.user){ 
-        return res.redirect('/login')
+    try {
+        if(!req.session.user){ 
+            return res.status(400).send({status:"Error",message:"Please Login firts"}).redirect('/login')
+        }
+    
+        logger.info(`Coneccion recibida en ' /api/products/ ' con metodo GET`)
+        let products= await services.productsService.getAll()
+        res.send(products)
+    } catch (error) {
+        
     }
-
-    logger.info(`Coneccion recibida en ' /api/products/ ' con metodo GET`)
-    let products= await services.productsService.getAll()
-    res.send(products)
 }
 
 const getById = async(req,res)=>{
-    if(!req.session.user){ 
-        return res.redirect('/login')
+    try {
+        if(!req.session.user){ 
+            return res.status(400).send({success:"Error", messaje:"Please login firts"}).redirect('/login')
+        }
+    
+        logger.info(`Coneccion recibida en ' /api/products/pid ' con metodo GET`)
+        let number = req.query.pid
+        let productid = await services.productsService.getById(number)
+        res.send(productid)
+    } catch (error) {
+        
     }
-
-    logger.info(`Coneccion recibida en ' /api/products/pid ' con metodo GET`)
-    let number = req.query.pid
-    let productid = await services.productsService.getById(number)
-    res.send(productid)
 }
 
 const newProduct = async(req,res)=>{
